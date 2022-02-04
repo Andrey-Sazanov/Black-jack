@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(6,98,103);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: goldenrod;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    font-size: 18px;
+}
+#draw-card{
+    margin-top: 5px;
+}
